@@ -1,0 +1,13 @@
+body{
+  /* background-color: rgb(187, 178, 178); */
+  background-image: url('/images/Background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; 
+  background-attachment: fixed;
+  
+}
+h2{
+  font-size: xx-large;
+  font-family: cursive;
+}

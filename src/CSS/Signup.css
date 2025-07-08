@@ -1,0 +1,63 @@
+body{
+  background-image: url('/images/Background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; 
+  background-attachment: fixed;
+  
+}
+
+.forms{
+  background-color:#c7e9de;
+
+  padding: 2rem;                         
+  color: #333;                            
+  width: 90%;
+  max-width: 600px;                       
+  margin: 2rem auto;                      
+  border-radius: 20px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08), inset 0 0 5px rgba(255, 255, 255, 0.3);
+    
+  backdrop-filter: blur(12px);
+  outline: none;                          
+}
+.butta{
+  background-color: #a0dad2;
+  color: #1a1a1a;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 12px;
+  font-size: 1.2rem;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.2s ease-in-out;
+
+}
+butta:hover {
+  background-color: #8ecfc4;
+  transform: scale(1.02);
+  transition: all 0.2s ease-in-out;
+}
+.imgan{
+  height: 450px;
+}
+.instruct{
+  background-color:#c7e9de;
+
+  padding: 2rem;                         
+  color: #333;                            
+  width: 90%;
+  max-width: 600px;                       
+  margin: 2rem auto;                      
+  border-radius: 20px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08), inset 0 0 5px rgba(255, 255, 255, 0.3);
+    
+  backdrop-filter: blur(12px);
+  outline: none;    
+  font-size: xx-large;
+}
+.box{
+  display: flex;
+
+}
